@@ -1,0 +1,6 @@
+{
+  "name": "SplitTrack - Trip Expense Splitter",
+  "description": "A refined trip expense splitter with multi-payer bill contributions, receipt image uploads, optimal transaction settlement math, and PDF/Excel reports.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
